@@ -9,7 +9,7 @@ Built with Arduino Nano · Inverse Kinematics · HC-05 Bluetooth · Dual-Rail Po
 
 [![Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Bluetooth Control](https://img.shields.io/badge/Control-Bluetooth%20HC--05-blue)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
+
 
 </div>
 
@@ -246,4 +246,4 @@ Developed under the guidance of **Dr. P. Eswaran**, Department of Electronics & 
 
 ## 📄 License
 
-This project is open-sourced for educational use. Add your preferred license (e.g., MIT) here.
+This project is open-sourced for educational use. 
